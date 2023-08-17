@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/madu-99/order-summary-component-main.git)
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [Add live site URL here](https://madu-order-summary-component-main.netlify.app/)
 
 
 ### Built with
